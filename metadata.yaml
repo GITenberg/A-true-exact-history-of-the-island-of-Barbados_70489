@@ -1,0 +1,35 @@
+_repo: A-true-exact-history-of-the-island-of-Barbados_70489
+_version: 0.0.1
+alternative_title: A true and exact history of the island of Barbados
+creator:
+  author:
+    agent_name: Ligon, Richard
+    deathdate: 1662
+    gutenberg_agent_id: '55775'
+    url: http://www.gutenberg.org/2009/agents/55775
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Ligon
+description: ''
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70489'
+  lccn: 04003229
+language: en
+pgterms:marc904: https://archive.org/details/trueexacthistory00ligo/page/n9/mode/2up
+pgterms:marc905: 20201030092420ligon
+pgterms:marc906: '1657'
+pgterms:marc907: GB
+production_note: Sonya Schermann, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHumphrey Mosley, $c1657.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Barbados -- Description and travel'
+- !lcsh 'Plants -- Barbados'
+- !lcsh 'Sugar -- Manufacture and refining -- Barbados'
+- !lcc 'F2001'
+- GITenberg
+title: A true & exact history of the island of Barbados
+url: http://www.gutenberg.org/ebooks/70489
